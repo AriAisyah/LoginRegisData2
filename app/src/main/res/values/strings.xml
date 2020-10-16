@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginRegisData</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="school">School</string>
+    <string name="view_login">Already have account? click here</string>
+    <string name="login">Login</string>
+    <string name="view_regis">Don\'t have account? sign here</string>
+</resources>
